@@ -3,3 +3,15 @@ h1
 	color: blue;
 	text-decoration-line: underline;
 }
+
+p
+{
+	color: black;
+	align-content: center;
+	border-style: dotted;
+}
+
+strong
+{
+	text-decoration: overline;
+}
